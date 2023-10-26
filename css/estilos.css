@@ -1,0 +1,111 @@
+body {
+	/*background-color: #2c2929;*/
+	background-color: #9f0f0f;
+}
+
+.banner{
+	font-size: 40px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.formu_ingreso{
+	width: 200px;
+	height: 280px;
+	background-color: #c3c3c3;
+	position: relative;
+	top: 80px;
+	left: 40%;
+	padding: 10px;
+	border: solid 5px;
+	border-radius: 20px; 
+}
+input {
+  border-radius: 10px;
+  background-color: #a9a9b5;
+}
+.boton{
+	border: solid 2px;
+	border-radius: 20px; 
+	font-weight: bold;
+	margin-left: 40%;
+}
+
+h1 {
+	font-size: 20px;
+	color: #ffffff; 
+  font-family: Tahoma;  
+  text-align: center;
+}
+
+/*estilo para el menu*/
+a {
+  color:#fff;
+  text-decoration:none;
+  padding:10px 12px;
+  line-height: 30px;
+}
+a:hover {
+  background-color:#0a0404;
+}		
+
+.menu{
+	border: solid rgb(255, 255, 255);
+	width: 30%;
+	text-align: justify;
+	position: relative;
+	top: 15px;
+	left: 30%;
+}
+
+.listado table {
+	width:auto;
+  border: 1px solid #000000;
+}
+.listado th {
+	font-size: 16px;	
+	color: #FFFFFF;
+	background: rgb(0, 0, 0);
+	border: 1px solid #ffffff;
+}
+.listado td {
+	font-size: 14px;
+  border: 1px solid #000000;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+.mensaje{
+  width: 450px;
+	height: 250px;
+	border: 0px solid #000000;
+	position: relative;
+	top: 150px;
+	left: 40%;
+	text-align: center;
+}
+
+h3{
+	font-size: 11px;
+	color:#ffffff;
+	font-family: Tahoma;
+	text-align: right;
+}
+.cabecera{
+	width: 100%;
+	height: 200px;
+	background-color: #141818;
+}
+.titulo{
+	font-size: 50px;
+	color: #ffffff;
+	font-family: Tahoma;
+	display: inline;
+	text-shadow: 2px 2px 2px black;
+}
+.usuario{
+	font-size: 15px;
+	color: #ffffff;
+	font-family: tahoma;
+	display: inline;
+	right: 20px;
+}
